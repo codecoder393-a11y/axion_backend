@@ -1,4 +1,4 @@
-﻿blinker==1.9.0
+blinker==1.9.0
 click==8.1.8
 colorama==0.4.6
 Flask==3.1.2
@@ -11,3 +11,4 @@ zipp==3.23.0
 gunicorn==23.0.0
 requests==2.32.5
 flask_cors==4.0.0
+google-generativeai==0.3.2
